@@ -1,7 +1,7 @@
 Ville give følgende et stylesheet:
-- Farver
+- Farver (_colors.scss)
     * Alle brugte farver
-- Mixins
+- Mixins (_mixins.scss)
     * Logo familier
     * Fonts 
         - Font wight
